@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omar82
+- 👋 Hi, I’m omar hassan
 - 👀 I’m interested in free data and trying to extract value or creating a new dataset from the free source
 - 🌱 I’m currently learning about life
 - 💞️ I’m looking to collaborate on ways to make a living
